@@ -21,6 +21,7 @@
 		CDB402632379FAC00092FD44 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB402622379FAC00092FD44 /* FeedViewController.swift */; };
 		CDB40265237A01B80092FD44 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB40264237A01B80092FD44 /* CameraViewController.swift */; };
 		CDB40267237A0E140092FD44 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB40266237A0E140092FD44 /* PostCell.swift */; };
+		CDC4BE852385CD7800469B16 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC4BE842385CD7800469B16 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		CDB402622379FAC00092FD44 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		CDB40264237A01B80092FD44 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		CDB40266237A0E140092FD44 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		CDC4BE842385CD7800469B16 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				CDB402622379FAC00092FD44 /* FeedViewController.swift */,
 				CDB40264237A01B80092FD44 /* CameraViewController.swift */,
 				CDB40266237A0E140092FD44 /* PostCell.swift */,
+				CDC4BE842385CD7800469B16 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -422,6 +425,7 @@
 				CDB402632379FAC00092FD44 /* FeedViewController.swift in Sources */,
 				CD0456F62379F52100B8BB4C /* SceneDelegate.swift in Sources */,
 				CDB40267237A0E140092FD44 /* PostCell.swift in Sources */,
+				CDC4BE852385CD7800469B16 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
